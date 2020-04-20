@@ -1,0 +1,1 @@
+This directory (CompareCartsBackend/src/main/resources/db) should exist so the project can build if pulled from GitHub. ApiServer.java requires the /resources/db folders to exist in order to build, and this README allows that folder structure to be preserved with git.
